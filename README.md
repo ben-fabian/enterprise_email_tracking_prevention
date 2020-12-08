@@ -1,1 +1,1 @@
-# MT_e-mail_prevention
+# enterprise grade email tracking prevention
